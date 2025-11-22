@@ -20,26 +20,42 @@ Time-series forecasting model using Power BI
 State-level sales distribution
 
 **🛠️ Tech Stack & Tools**
+
 Component	Technology
+
 Data Visualization	Power BI
+
 Forecasting Model	Power BI Analytics / Time-Series Forecasting
+
 Data Source	Sample SuperStore Dataset
+
 Data Cleaning	Power Query
+
 Data Modelling	Star Schema with Date Table
 
 **📥 Data Source & Preprocessing**
+
 📌 Data Source
 The SuperStore dataset was extracted from an Excel file (.xlsx).
 
+
 📌 Cleaning & Filtering Performed
 Using Power Query, the following steps were applied:
+
 Removed duplicate records
+
 Standardized date formats
+
 Fixed missing values where required
+
 Filtered invalid or negative values
+
 Created a separate Date Table for accurate time intelligence
+
 Formatted data types (numeric, categorical, date fields)
+
 Removed unnecessary columns
+
 Added calculated columns for better segmentation
 
 
@@ -62,6 +78,7 @@ State-level sales performance
 Trend comparisons across months
 
 **📊 Key Insights**
+
 ✔ Sales Performance
 Total Sales: $2M+
 Total Orders: 22K
