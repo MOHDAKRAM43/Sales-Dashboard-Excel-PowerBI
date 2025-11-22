@@ -44,9 +44,6 @@ Removed unnecessary columns
 Added calculated columns for better segmentation
 
 📂 Project Structure
-├── images/
-│   ├── overview_dashboard.png
-│   ├── forecast_dashboard.png
 │
 ├── README.md
 └── superstore.pbix  (optional if included)
