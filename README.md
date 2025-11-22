@@ -42,10 +42,6 @@ Formatted data types (numeric, categorical, date fields)
 Removed unnecessary columns
 Added calculated columns for better segmentation
 
-📂 Project Structure
-│
-├── README.md
-└── superstore.pbix  (optional if included)
 
 **📸 Dashboard Previews**
 ⭐ Sales Overview Dashboard
@@ -123,12 +119,14 @@ Optimize shipping and customer segmentation strategies
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
 **📥 How to Use the Dashboard**
+
 Download the .pbix file (if included).
 Open using Power BI Desktop.
 Refresh data if required.
 Interact using slicers & filters to explore insights.
 
 **📎 Future Enhancements**
+
 Add RLS (Row-Level Security)
 Integrate real-time data using APIs
 Add customer churn prediction model
@@ -137,3 +135,4 @@ Build automated refresh pipeline using Power BI Service
 **⭐ Author**
 Mohd Akram
 Data Engineer | BI Developer
+linkedin : (https://www.linkedin.com/in/mohd-akram-6a210a259/)
