@@ -1,6 +1,5 @@
 # Sales-Dashboard-Excel-PowerBI
 **📊 SuperStore Sales Dashboard & 15-Day Forecasting**
-Power BI End-to-End Business Intelligence Project
 
 This project showcases an interactive SuperStore Sales Performance Dashboard along with a 15-Day Sales Forecasting Model built in Power BI.
 The solution provides deep insights into sales performance, profitability, customer behavior, and future sales trends using time-series forecasting.
